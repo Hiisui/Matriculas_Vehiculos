@@ -1,0 +1,8 @@
+Se requiere de la instalación de pytesseract, el cual se hace mediante los siguientes comandos:
+
+sudo apt install tesseract-ocr libtesseract-dev
+pip install opencv-python pytesseract numpy
+
+Además se anexa enlace directo a videos de prueba debido al tamaño que estos poseen:
+
+https://drive.google.com/drive/folders/1tflnFjOeUzKrtnu1wcj49n8olBKlSl0V
